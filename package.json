@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/robmhoward/O365AngularCors/issues"
   },
-  "homepage": "https://github.com/robmhoward/O365AngularCors"
+  "homepage": "https://github.com/robmhoward/O365AngularCors",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }

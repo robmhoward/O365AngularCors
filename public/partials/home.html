@@ -1,0 +1,18 @@
+<div class="container">
+
+	<h2>Calendar events</h2>
+	<ul>
+		<li ng-repeat="calendarEvent in calendarEvents">{{calendarEvent.Subject}}</li>
+	</ul>
+
+	<h2>Messages</h2>
+	<ul>
+		<li ng-repeat="message in messages">{{message.Subject}}</li>
+	</ul>
+
+	<h2>ODB files</h2>
+	<ul>
+		<li ng-repeat="file in files">{{file.name}}</li>
+	</ul>
+
+</div>
