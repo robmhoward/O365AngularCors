@@ -1,0 +1,19 @@
+{
+  "name": "O365AngularCors",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robmhoward/O365AngularCors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robmhoward/O365AngularCors/issues"
+  },
+  "homepage": "https://github.com/robmhoward/O365AngularCors"
+}
